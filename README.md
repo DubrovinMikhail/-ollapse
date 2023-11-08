@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9hq09dhara855jt1?svg=true)](https://ci.appveyor.com/project/DubrovinMikhail/collapse)
